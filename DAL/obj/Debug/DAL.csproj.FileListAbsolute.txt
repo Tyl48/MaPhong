@@ -1,0 +1,9 @@
+D:\MaPhong\DAL\bin\Debug\DAL.dll
+D:\MaPhong\DAL\bin\Debug\DAL.pdb
+D:\MaPhong\DAL\bin\Debug\DTO.dll
+D:\MaPhong\DAL\bin\Debug\DTO.pdb
+D:\MaPhong\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\MaPhong\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\MaPhong\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\MaPhong\DAL\obj\Debug\DAL.dll
+D:\MaPhong\DAL\obj\Debug\DAL.pdb

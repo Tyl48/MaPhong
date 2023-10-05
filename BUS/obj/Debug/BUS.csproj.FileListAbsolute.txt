@@ -1,0 +1,11 @@
+D:\MaPhong\BUS\bin\Debug\BUS.dll
+D:\MaPhong\BUS\bin\Debug\BUS.pdb
+D:\MaPhong\BUS\bin\Debug\DAL.dll
+D:\MaPhong\BUS\bin\Debug\DTO.dll
+D:\MaPhong\BUS\bin\Debug\DAL.pdb
+D:\MaPhong\BUS\bin\Debug\DTO.pdb
+D:\MaPhong\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\MaPhong\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\MaPhong\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\MaPhong\BUS\obj\Debug\BUS.dll
+D:\MaPhong\BUS\obj\Debug\BUS.pdb
